@@ -1,2 +1,7 @@
 Living more or less my dream
+<<<<<<< HEAD
 dont kill ur friends kids
+=======
+switch up$
+>>>>>>> 1db6978bac9880968f36950f0a342dab9d17702a
+my mirrors are broken
